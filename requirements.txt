@@ -1,0 +1,8 @@
+flask
+flask-sqlachemy
+flask-bcrypt
+flask_login
+flask_mail
+flask_wtf
+flaskblog
+email_validator
